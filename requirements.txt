@@ -1,0 +1,10 @@
+flask
+flask-cors
+python-dotenv
+nltk
+spacy
+pandas
+langchain
+langchain-core
+langchain-mistralai
+python-dotenv
